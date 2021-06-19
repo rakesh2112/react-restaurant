@@ -1,0 +1,18 @@
+.inputComponent{
+    height: 250px;
+    width: 450px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)); 			
+  	color: black;
+	text-align: left;
+	padding: 20px;
+	border-radius: 12px;
+}
+
+.btn {
+    border: none;
+    padding: 5px 40px;
+    margin-top: 10px;
+    font-size: 15px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.877), rgba(255, 255, 255, 0.7));
+    border-radius: 5px;
+}
